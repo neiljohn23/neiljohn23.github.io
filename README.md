@@ -2,4 +2,4 @@
 
 [Photos](pics.md)
 
-![image-title-here](/images/to/image.jpg)
+![image-title-here](/images/pup.jpg)
